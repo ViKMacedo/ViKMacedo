@@ -24,7 +24,7 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
 
 - 🔭 I’m currently studing in FACENS
   
-- 🌱 I’m currently learning C # .NET and Xamarin.  
+- 🌱 I’m currently learning C# .NET and SQLServer.  
   
   
 ## Tools 
