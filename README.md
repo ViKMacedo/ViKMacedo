@@ -20,11 +20,11 @@ alt=linkedin style="margin-bottom: 5px;" />
 ### About
 
 Currently I work with Web and Mobile systems development, working with frontend and backend, 
-my main focus is .NET Core using C #, for future studies I will work with Xamarin.
+my main focus is .NET Core using C #, React Native and Axios.
 
 - 🔭 I’m currently studing in FACENS
   
-- 🌱 I’m currently learning C# .NET and SQLServer.  
+- 🌱 I’m currently learning React Native.  
   
   
 ## Tools 
@@ -32,7 +32,9 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
 <div align="left">  
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />     
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg/" alt="React" heigth="50">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" heigth="50">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
