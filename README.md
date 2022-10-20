@@ -22,9 +22,9 @@ alt=linkedin style="margin-bottom: 5px;" />
 Currently I work with Web and Mobile systems development, working with frontend and backend, 
 my main focus is .NET Core using C #, React Native and Axios.
 
-- 🔭 I’m currently studing in FACENS
+- 🔭 studied in FACENS
   
-- 🌱 I’m currently learning React Native.  
+- 🌱 React Native.  
   
   
 ## Tools 
